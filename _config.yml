@@ -1,1 +1,5 @@
+title: devbio.io blog
+description: Blog for devbio.io
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-architect
